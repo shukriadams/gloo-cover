@@ -1,0 +1,6 @@
+{
+  "name" : "gloo-cover",
+  "dependencies" : {
+    "gloo-base" : "0.0.2"
+  }
+}
